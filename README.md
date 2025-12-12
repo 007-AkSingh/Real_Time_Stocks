@@ -148,6 +148,6 @@ real-time-stocks-pipeline/
 
 **Author**: *Aniket Rajkumar Singh* 
 
-**LinkedIn**: [007-AkSingh](https://https://www.linkedin.com/in/aniket-singh-9983291b1/) 
+**LinkedIn**: [Aniket Singh](https://https://www.linkedin.com/in/aniket-singh-9983291b1/) 
 
 **Contact**: [aniketsingh007dt@gmail.com](007anisingh@gmail.com)
