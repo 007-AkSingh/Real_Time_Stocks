@@ -146,8 +146,8 @@ real-time-stocks-pipeline/
 
 ---
 
-**Author**: *Jaya Chandra Kadiveti* 
+**Author**: *Aniket Rajkumar Singh* 
 
-**LinkedIn**: [username](https://www.linkedin.com/in/jayachandrakadiveti/) 
+**LinkedIn**: [username](https://https://www.linkedin.com/in/aniket-singh-9983291b1/) 
 
-**Contact**: [datawithjay1@gmail.com](mailto:datawithjay1@gmail.com)
+**Contact**: [aniketsingh007dt@gmail.com](007anisingh@gmail.com)
